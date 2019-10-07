@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="thank_you">धन्यवाद !!</string>
+    <string name="toppings">ऊपरी परत</string>
+    <string name="app_name">बस जावा</string>
+    <string name="name">नाम</string>
+    <string name="whippedCream">फेटी हुई मलाई</string>
+    <string name="Chocolate">चॉकलेट</string>
+    <string name="Quantity">मात्रा</string>
+    <string name="orderSummary">" आदेश सारांश"</string>
+    <string name="order">आदेश</string>
+    <string name="order_summary_name">नाम :  <xliff:g id="name" example="Arpit">%s</xliff:g></string>
+    <string name="order_summary_quantity">मात्रा : <xliff:g id="quantity" example="2">%d</xliff:g></string>
+    <string name="order_summary_price">कुल रकम = $ <xliff:g id="price" example="$10">%d</xliff:g></string>
+    <string name="pricePerCup">मूल्य प्रति कप $<xliff:g id="pricePerCup" example="$10">%d</xliff:g> (आधार मूल्य)</string>
+    <string name="addWhippedCream">अतिरिक्त मूल्य फेटी हुई मलाई के साथ 1$</string>
+    <string name="addChocolate">अतिरिक्त मूल्य चॉकलेट के साथ 2$</string>
+    <string name="CoffeeOrderFor">श्रीमान / श्रीमती <xliff:g id="CoffeeOrderFor" example="Arpit">%s</xliff:g> के लिए कॉफी आदेश</string>
+
+</resources>
